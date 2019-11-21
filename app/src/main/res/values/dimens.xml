@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="g_top_margin">100dp</dimen>
+    <dimen name="size_edit">25sp</dimen>
+</resources>
