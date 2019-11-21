@@ -44,7 +44,7 @@ Google Drive and Album Example
 
 
 # 相簿
-範例寫的比較簡陋一點，用的是OkHttp的方式來上傳。
+範例寫的比較簡陋一點，用的是OkHttp的方式來上傳。  
 1.Creat Folder:可以修改方法creatAlbum()裡的 title來變更檔名。  
 2.Open Album:來選擇圖片，這邊沒有把圖片顯示出來，只單純紀錄圖片路徑而已，所以如果要上傳照片記得要選圖片。
 3.Upload Photo: 記得要先用 get Album得到相簿的albumId才能指定上傳位置。
